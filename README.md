@@ -11,6 +11,7 @@ This model detects face mask using webcam. This project is a prototype model and
 * WebCam
 
 **Improvements**
+<br>
 Further improvements can be brought to model
  * With a bigger and more quality dataset
  * Better camera 
